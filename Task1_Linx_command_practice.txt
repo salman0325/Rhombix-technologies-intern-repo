@@ -1,0 +1,39 @@
+ ls
+ 2008  touch index.html
+ 2009  ls
+ 2010  mkdir devops
+ 2011  cd devops
+ 2012  cd ..
+ 2013  ls -l
+ 2014  ls -la
+ 2015  chmod +x index.html
+ 2016  ls -la
+ 2017  chmod 777 index.html
+ 2018  clear
+ 2019  echo "wellcome to linx practice" > index.txt
+ 2020  ls
+ 2021  cat index.txt
+ 2022  df -h
+ 2023  du -sh
+ 2024  top
+ 2025  ls
+ 2026  find . index.txt
+ 2027  ls
+ 2028  chmod 777 -R devops
+ 2029  cat index.txt
+ 2030  grep "wellcome" index.txt
+ 2031  ip a | grep inet
+ 2032  clear
+ 2033  sudo apt update
+ 2034  sudo apt-get install nginx
+ 2035  nginx --version
+ 2036  nginx version
+ 2037  nginx -v
+ 2038  sudo systemctl status nginx
+ 2039  sudo systemctl reload nginx
+ 2040  sudo nginx -t
+ 2041  ls
+ 2042  cd ~/Desktop
+ 2043  clear
+ 2044  history
+
